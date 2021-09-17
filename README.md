@@ -3,6 +3,4 @@ Repo to practice git commands
 
 
 
-Project Team Members:
-Lukas Voemel
 
